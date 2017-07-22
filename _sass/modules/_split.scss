@@ -1,0 +1,77 @@
+.yellow-bar {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: $barColour;
+	.caption {
+		color: $headingColour;
+	}
+	p {
+		a {
+			text-shadow: 0.1rem 0 $barColour, 0.15rem 0 $barColour, -0.1rem 0 $barColour, -0.15rem 0 $barColour;
+		}
+	}
+}
+aside,
+.aside {
+	.centered {
+		text-align: center;
+	}
+	position: relative;
+	width: 100%;
+	background-image: url(../assets/images/nodeschool-utrecht-background-triangles.png);
+	@include breakpoint(break-1) {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 25%;
+		height: 100%;
+	}
+
+	.what-we-do {
+		text-align: center;
+		font-weight: bold;
+	}
+}
+
+.logo {
+	max-width: 200px;
+	display: block;
+	margin: auto;
+	@include breakpoint(break-1) {
+		max-width: 90%;
+	}
+	&.we-all-float-down-here {
+		max-width: 90px;
+		position: absolute;
+		right: 0;
+		top: 120px;
+		@include breakpoint(break-1) {
+			top: inherit;
+			margin-top: -20px;
+		}
+	}
+}
+
+.main {
+	position: relative;
+	width: 100%;
+	@include breakpoint(break-1) {
+		float: right;
+		width: 75%;
+	}
+}
+h4 .link, small .link {
+	background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($linkColour,20%) 50%);
+	background-position: 0 93%;
+	background-repeat: repeat-x;
+	background-size: 100% 0.15rem;
+	text-shadow: 0.1rem 0 $backgroundColour,
+							 0.15rem 0 $backgroundColour,
+							-0.1rem 0 $backgroundColour,
+							-0.15rem 0 $backgroundColour;
+
+	&:hover, &:active, &:focus {
+		background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($hoverColour,20%) 50%);
+	}
+}
