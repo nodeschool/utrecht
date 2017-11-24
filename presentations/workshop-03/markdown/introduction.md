@@ -1,12 +1,12 @@
 ### Welcome to NodeSchool Utrecht
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; max-width: 400px; width: 100%">
-#### Workshop #2
+#### Workshop #3
 
 
 ### NodeSchool?
 
 <p class="fragment">NodeSchool is an international <strong>community-driven effort</strong> that teaches <strong>essential software skills</strong>&hellip;</p>
-<p class="fragment">with <strong>179 chapters</strong> world-wide that have organized <strong>759 events</strong> (and counting).</p>
+<p class="fragment">with <strong>185 chapters</strong> world-wide that have organized <strong>771 events</strong> (and counting).</p>
 <p class="fragment">For more information, visit:<br><a href="http://nodeschool.io/">http://nodeschool.io/</a></p>
 
 Note:
@@ -38,11 +38,6 @@ Note:
 		<img src="https://pbs.twimg.com/profile_images/780767235652673536/4F_k-9c3_400x400.jpg">
 		<span>Rick&nbsp;Heere</span>
 		<i class="twitter">@heererick</i>
-	</a>
-	<a class="host">
-		<img src="https://avatars2.githubusercontent.com/u/895154?s=400&v=4">
-		<span>Daan&nbsp;Houweling</span>
-		<i class="twitter">@daanpeer</i>
 	</a>
 	<a class="host">
 		<img src="https://media.licdn.com/media/p/1/000/24d/201/2f6e929.jpg">
