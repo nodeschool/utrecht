@@ -1,6 +1,6 @@
 ### Welcome to NodeSchool Utrecht
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; max-width: 400px; width: 100%">
-#### Workshop #5
+#### Workshop #6
 
 
 ### NodeSchool?
@@ -20,19 +20,14 @@ Note:
 
 <div class="hosts">
 	<a class="host">
-		<img src="images/alex.png">
-		<span>Alex&nbsp;Borrego</span>
-		<i class="twitter">@???</i>
-	</a>
-	<a class="host">
 		<img src="images/george.jpg">
 		<span>George&nbsp;Sapkin</span>
 		<i class="twitter">@GeorgeSapkin</i>
 	</a>
 	<a class="host">
-		<img src="images/philipp.jpg">
-		<span>Philipp&nbsp;Beau</span>
-		<i class="twitter">@PhilippBeau</i>
+		<img src="https://media.licdn.com/media/AAEAAQAAAAAAAAd8AAAAJGU0OTY1ZmYxLTEwNWYtNDc0MS1iOGQyLTdlMDE3MzVkN2Q4Zg.jpg">
+		<span>Ramon&nbsp;Gebben</span>
+		<i class="twitter">@RamonGebben</i>
 	</a>
 	<a class="host">
 		<img src="https://media.licdn.com/media/p/1/000/24d/201/2f6e929.jpg">
