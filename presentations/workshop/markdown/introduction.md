@@ -35,7 +35,7 @@ Note:
 		<i class="twitter">@heererick</i>
 	</a>
 	<a class="host">
-		<img src="https://media.licdn.com/media/p/1/000/24d/201/2f6e929.jpg">
+		<img src="images/todd.jpg">
 		<span>Todd&nbsp;Merrill</span>
 		<i class="twitter">@toddmerrill</i>
 	</a>
