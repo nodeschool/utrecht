@@ -30,6 +30,11 @@ Note:
 		<i class="twitter">@RamonGebben</i>
 	</a>
 	<a class="host">
+		<img src="https://pbs.twimg.com/profile_images/780767235652673536/4F_k-9c3_400x400.jpg">
+		<span>Rick&nbsp;Heere</span>
+		<i class="twitter">@heererick</i>
+	</a>
+	<a class="host">
 		<img src="https://media.licdn.com/media/p/1/000/24d/201/2f6e929.jpg">
 		<span>Todd&nbsp;Merrill</span>
 		<i class="twitter">@toddmerrill</i>
