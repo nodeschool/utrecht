@@ -35,7 +35,7 @@ Note:
 		<i class="twitter">@PhilippBeau</i>
 	</a>
 	<a class="host">
-		<img src="https://media.licdn.com/media/AAEAAQAAAAAAAAd8AAAAJGU0OTY1ZmYxLTEwNWYtNDc0MS1iOGQyLTdlMDE3MzVkN2Q4Zg.jpg">
+		<img src="images/ramon.jpg">
 		<span>Ramon&nbsp;Gebben</span>
 		<i class="twitter">@RamonGebben</i>
 	</a>
