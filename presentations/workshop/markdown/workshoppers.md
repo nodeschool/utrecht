@@ -30,9 +30,9 @@ If you want to learn some basic programming skills using JavaScript and Node.js,
 
 $ npm install -g learnyounode
 
-$ npm install -g how-to-npm
+$ npm install -g learnyouhtml
 
-$ npm install -g scope-chains-closures
+$ npm install -g how-to-npm
 
 $ npm install -g git-it
 </code></pre>
@@ -42,7 +42,7 @@ $ npm install -g git-it
 
 If you want to challenge yourself by selecting an elective, we recommend the following workshoppers:
 
-<pre><code>$ npm install -g planetproto
+<pre><code>$ npm install -g expressworks
 
 $ npm install -g count-to-6
 
@@ -61,8 +61,6 @@ If you want to challenge yourself even more, we challenge you with the following
 <pre><code>$ npm install -g learn-generators
 
 $ npm install -g esnext-generation
-
-$ npm install -g bacon-love
 
 $ npm install -g goingnative</code></pre>
 
